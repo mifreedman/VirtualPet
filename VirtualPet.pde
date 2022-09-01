@@ -5,7 +5,7 @@ void setup()
 }
 void draw()
 {
-  System.out.println(mouseX + ":" + mouseY);
+  background(40,150,255);
   noStroke();
   // tan
   fill(210,180,140);
